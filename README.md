@@ -7,6 +7,6 @@ as an answer to those requirements. In this work we explored the industries supp
 namely IIoT, and what communication requirements its development implies.
 
 ## Tasks
- Investigate the IIoT vertical in terms of architecture components.
- Identify a typical industrial scenario that may benefit from adopting IoT solutions.
- For that scenario (IIoT use cases) identify and classify their communication requirements (from diﬀerent layers perspective).
+- Investigate the IIoT vertical in terms of architecture components.
+- Identify a typical industrial scenario that may benefit from adopting IoT solutions.
+- For that scenario (IIoT use cases) identify and classify their communication requirements (from diﬀerent layers perspective).
